@@ -1,0 +1,501 @@
+id,question
+2254,(Avg. of 42 ) : What is a SQL view?
+1390,Question involving Primary Key Integrity constraint.etc
+1224,How secure are encrypted stored procedures  triggers and views?
+1172,8. A candidate appearing for an examinatio  n has to secure 40% marks to pass paper I. But he secured only 40 marks and failed by 20 marks. What is the maximum mark for paper I?
+1135,Consider the following areas for tuning. The order in which steps are listed needs to be maintained to prevent tuning side effects. For example  it is no good increasing the buffer cache if you can reduce I/O by rewriting a SQL statement. Database Design (if it's not too late):
+22,2. Why we cant create object for abstract class?
+1166,6.transfering of pages from memory to peripheral devices through buffer is ( spooling)
+1693,There are 30 questions in which 2 are STAR QUESTIONS (Correct answer to these questions will fetch you more marks and wrong answer will fetch you more negative marks) The key is to leave the questions in which you are not sure of. I heard that there are 2 DUMMY QUESTIONS (all the four options will be wrong) Please try to identify and avoid these questions as attempting these questions might risk your selection to next round.
+994,A) InfoPackage â ' Scheduler â ' Repair Request flag (check).
+374,An anchoring object is a print condition object which used to explicitly or implicitly anchor other objects to itself.
+92,It is difficult to use database objects declared in a module from within a form.
+385,14. Can objects of the same Schema reside in different tablespaces ?
+180,25. When an object is seen from front side we can see two concentric  squares and topview also without any hidden lines. Draw the side view.
+1115,? Case in which fcfs is the best algo
+959,10. How does the scheduler know the time how it should be scheduled.
+490,multiple inheritance (2 questions)
+928,32) In scheduling algorithms which are logically executed but suspended
+195,"Coding "" Decoding  Blood relations  Directional Sense  Objective Reasoning  Selection decision tables  Puzzles  Coding Pattern  Number series Pattern  Analogy Logical word sufficiency  Data sufficiency.)."
+407,7: what can not be used in object names.
+574,Some background on this: C++ supports multiple inheritance  but C# does not. Multiple inheritance in C++ has always be controversial  because the resolution of multiple inherited implementations of the same method from different base classes is hard to control and anticipate. C# decided to avoid this problem by allowing a class to implement multiple interfaces  which do not contain method implementations  but restricting a class to have at most a single parent class. Although this can result in redundant implementations of the same method when different classes implement the same interface  it is still an excellent compromise.
+417,3. Mention four Object Oriented Programming Languages?>
+1603,d) ALTER TABLE employee DROP PRIMARY KEY employee_id_pk  CASCAdE;
+2252,What is the basic form of a SQL statement to read data out of a table?
+2221,How are modified extents tracked in SQL Server 2005 (which internal structures)?
+1741,4. The effect of the ROLLBACK command in a transaction is the following
+2361,2. SQL/PLSQL     see all commands in SQL and exception  cursors  in PLSQL.
+891,79. when head is moving back and forth  the disk scheduling  algorithm is _____
+1480,16. In public key encryption  if A wants to send a message to B so that no one else can read the message then A encrypts the message using
+1396,Can a unique key take many NULL values?
+1653,What is the difference between foreign key and reference key ?
+605,7) How can you implement inheritance in C++?
+164,What do you mean by Object Oriented Programming.
+2137,The SQL Variant type can store all datatypes except varchar(max)  varbinary(max)  xml  text  ntext  rowversion/timestamp (thought the data of a rowversion can be stored in a binary(8)  which can be stored in a sql_variant) and sql_variant (it may seem strange that you can?t store a variant in a variant  but all this is saying is that the sql_variant data type doesn?t actually exist as such?SQL Server chooses the best type of storage to store the value you give to it).
+1111,"2. The shortlisted candidates were grouped into GD groups. as only 150 to 180 students were selected from apti test  the GD was called off  and we r selected for technical interview. there was two panel of tech interview  one for CSE & IT and another for ECE. I was sent to the CSE panel. and after waiting for about 2 and half hours outside the room  I was really afraid of what was waiting for me there inside. I entered into the room and with a smile I shake my hand with the guy sitting in front of me. As soon as he saw my name he got interested  becoz i m chakraborty and he was too. and after doing some  formal talk  he started to ask me about Linked list  array  structure  malloc  free  RAM  cache memory  some simple questions from JAVA  pointers  OSI layers and their functions  CRC  flow error controll etc. As i told him before my favourites are C  JAVA  I answered confidently every questions from these topics. after half an hour of tech interview  he told me ""Ok Avijit its fine  so any question u have ?"" i asked a company related question  and after that I left with a firm hadshake. and waiting for result  after 10 minutes a guy told me to go to the upstairs  and wait for the HR interview  oh god I was selected for HR. So guys from CSE have to b strong in C  JAVA  Networking."
+2220,When you install SQL Server 2005 and create a new database  is a Database Master Key created?
+38,"Referring to the sample code above  if an object of class ""myprofessor"" were created  how many instances of professor will it contain?"
+1574,A certificate is an asymmetric key that provides encryption in addition to authentication of an entity.
+1255,DYNAMIC PRIVILEGE MANAGEMENT - When the privileges of a group must change  only the privileges of the role need to be modified. The security domains of all users granted the group's role automatically reflect the changes made to the role.
+729,6. Difference between process and thread
+103,1. What are the advantages of Object oriented programming languges?
+2369,What is the significance of the & and && operators in PL SQL ?
+1669,& GEN ENGLISH  C QUES PLAY KEY ROLE
+2173,How is Thesaurus data configured in SQL Server 2005 Full-Text Search?
+353,102. Can you store objects in library?
+2026,"Questions were fired one after another from deadlock  critical section  memory management. He then again shifted to SQL and gave simple queries to write. I got confused in two and I politely said ""I do not know Sir"". Rest I was confident that I was correct. He tried to confuse me but I remained intact to my points. He then asked basics of C- pointers and functions  preprocessors directives and their functions."
+468,There was no negative marking so you can attempt all the written test questions. Just tick on the multiple choice - objective questions when the time is gonna be over. Out of 180 students only 20 were short listed for the 2nd round. I was one among them.
+573,One additional key difference between interfaces and abstract classes (possibly the most important one) is that multiple interfaces can be implemented by a class  but only one abstract class can be inherited by any single class.
+762,TR: What is Thread and why are they used?
+1417,22. What happens when an application is opened as like an MS Word and u       press Tab key then the response seen is the cursor moving a bit on the       Word document.So what r the processes (no jargon give the proper technical       terms) behind this whole thing happening?
+1953,So I suggest you to prepare sql from site w3schools.com and basic commands of unix (like grep  cat). Output and error based question of C language as I have opted C  and they were easy. So be prepare for it.
+1971,10 questions on Database (find correct sql query  permissions)
+2420,The other 25 questions were technical questions based on basic programming logics  java  object oriented technology  SQL  networking  etc and the time was 30 minutes. You could solve either of the sections first but cannot carry the timing of one section to the other one and also there was an option to go back to the questions so you could change your answer if you wanted.
+1368,10)what happens when any keyboard key is pressed?(abt WM_CHAR message)
+841,Without using strrev  reversing a linked list  program to find factorial of a number  swings  Servlets  JDBC  etc.
+1123,8. CMOS inverter main yadi PMOS and NMOS ko interchange ker de to bo buffer bun jata hai.
+1730,b. Read is done when the transaction is not yet committed
+1887,This Round Was Bit Tuff  What Ever you Fill in Form As skills & Certification you Mention definitely you have questions on it  I Mentioned Asp.Net As certification  Hr asked to tell me the life cycle of Asp.Net  I replied I don't know Theoretical concepts I know Practical Knowledge  Then Hr Asked Tell Me What you know in Asp.Net I Told Creating Web page Design It Running it Use off Button  Image  File Uploading & connecting it to Data Base  Immediately Hr Asked Tell Me About Joints I Told I don't know Database I know only to use it for project create  update  delete the Table  He asked me You would be studied in your collage Since I am an IT Department Student he asked me I Replied Don't know  Then He asked me abt Bubble Sort I told The Answer  then Asked abt Stack I told The answer waited for result with Fear But luckily I got Selected & gone to Hr Round. (Be Bold To Say No if You Don't know the Answer HR will not take it seriously Then Confusing by telling irrelevant answers)
+1014,2)page caching  output caching?
+479,5) Complete oops concept. Please be completely prepared with realtime example and use of oops concept in program and program to illustrate inheritance (overloading and Overriding).
+657,5.difference b/n c and c++? I answered in brief narrating all features . When I came to polymorphism they had to interrupt (as I had expected!! )
+298,3) Can you typecast one Object type to another Object type or One              object type to another data type (Clue: Boxing & Unboxing)
+865,11) what are the cpu scheduling algorithms you know?
+958,How does the scheduler know the time how it should be scheduled.
+2416,The interview was quite easy. Most of the questions were from academic project  3 questions were from oops. He also asked me sql concepts like joins  normalization  triggering  indexing. As he is oracle team lead most of the questions he asked me from oracle that I was unable to answer and I just said that I don't have much knowledge in this. He also asked me to write a program to merge two strings. At the end he asked me to rate myself in java as well as oracle. After that he told many things about wipro when I asked him. My technical interview continued for about 35 minutes after an hour results were declared and I cleared my technical round. After that we were asked to leave for home.
+744,D Two threads halted without further execution  each waiting for the lock obtained by the other thread to be released.
+256,"Generally for any interviews we might have heard of having group discussions on general topics but for LG Soft it is completely different. They will give you a technical topic and would divide the crowd into 2 groups. They will give 10 minutes for one group to support their concept and in the same way other group too! What I felt was that it was more like a debate than a discussion. In this round they will not assess our Communication skills or Management Skills rather they would specifically analyze our technical knowledge. For us the topic was ""Procedural Oriented Vs Object Oriented"". I initially  thought that it was an easy topic to discuss but as it is a competition we will not easily get chance to express and support our words. Somehow I tried to convey the things that I know and actively participated in the discussion. After 10 minutes they will change the positions of the 2 groups and would ask you to speak. Now  we should be very careful. We should not repeat the points that were already mentioned by some other people. I confidently discussed with my competitors and somehow qualified in the second round."
+1476,hr-tell me about foreign key and primary key?
+734,Thread used in screw jack  lead screw?
+1941,In first tech they asked C  C++  SQL
+1074,Output caching is a powerful technique that increases request/response throughput by caching the content generated from dynamic pages. Output caching is enabled by default  but output from any given response is not cached unless explicit action is taken to make the response cacheable.
+2040,The above SQL statement is correct or not? (question is not cleared)
+695,Me: Polymorphism is the ability of an object to take on many forms.
+2307,The data dictionary cache is stored in an area in SGA called the Shared SQL Pool. This will allow sharing of parsed SQL statements among concurrent users.
+530,4) how can u initialize a function which has declared in 2 classes  where those 2 classes were inherited already?
+536,a. private: b'coz the private inheritance makes everything from the base class private in the derived class (ans)
+1048,a. single cache less instructions  (ans)
+981,It mainly covers Operating system. consists of questions in semaphore (2 questions)  job scheduling algorithms  paging (2 or 3 questions)  virtual memory  hashing  etc
+404,Me: Yes  can call without creating object
+2086,(c) A group of SQL statements defining a user-oriented task
+1184,>Do you think java is secure and why?
+1323,Q- What is deadlock and blocking with respect to the transaction?
+1777,a) Data Base Writer(DBWR) :: Data Base Writer Writes Modified blocks from Database buffer cache to Data Files.This is required since the data is not written whenever a transaction is commited.
+1144,b)LogWriter(LGWR) :: LogWriter writes the redo log entries to disk. Redo Log data is generated in redo log buffer of SGA. As transaction commits and log buffer fills  LGWR writes log entries into a online redo log file.
+629,18)  are encapsulation  datahiding  abstraction same
+203,It contains 100 objective type questions.
+1525,3. Verbal aptitude : 40 questions 35 minutes  level of difficulty was moderate. Time is the key factor try to practice more and more from IndiaBix for accuracy and and time management.
+519,C++ (oops inheritance polymorphism etc) just be clear with basics.
+1122,7. Two buffer ckt were given what is the difference b/w them?
+2134,You are setting up the backup scheme for your SQL Server 2005 server and want to setup nightly full backups and hourly log backups in the Maintenance Plans subsystem. How many plans must you setup?
+94,ActiveX Data Object. ADO can access data from both flat files as well as the databases. I.e.  It is encapsulation of DAO  RDO  and OLE that is why we call it as OLE-DB Technology. Objects are Connection  Record Set  Command  Parameter  field  Error  Property.
+1601,a) ALTER  TABLE employee DROP PRIMARY KEY CASCADE;
+2157,Credentials in SQL Server 2005 are used to access what?
+571,Abstract classes are closely related to interfaces. They are classes that cannot be instantiated  and are frequently either partially implemented  or not at all implemented. One key difference between abstract classes and interfaces is that a class may implement an unlimited number of interfaces  but may inherit from only one abstract (or any other kind of) class. A class that is derived from an abstract class may still implement interfaces. Abstract classes are useful when creating components because they allow you specify an invariant level of functionality in some methods  but leave the implementation of other methods until a specific implementation of that class is needed. They also version well  because if additional functionality is needed in derived classes  it can be added to the base class without breaking code.
+45,c) Each derived class object has base objects only from the virtual instance
+772,12) one on a right threaded tree
+937,Around 300 people gave the test and 130-140(70 CS people) were selected for the next round which was scheduled for next day.
+1285,12. Many problems like A needs 5 resources and B needs 6 resources of same type  then minimum resources needed so that deadlock will not occur?
+293,was that he declared an object locally in a function and tried to
+1058,cache access time 100 msec. main memory access time 800 msec if the hit ratio is
+1262,We had to go to Polaris company for interview which is located in Gachibowli  firstly I was shocked to see the campus because its my first MNC which I've entered into. Even security guards room was equipped with AC  that amazes me very much. After some time we've entered into the office  they served us with snacks. The interview in polaris is quite different from others  they will ask you different situations and asks what will you do in that situation and how will you react it  all of them says real life problems  it lasts for 25-30 mins. I was lucky the interviewer is very much friendly to me. He asked many questions  I remember only some of them.
+803,Write a java program snippet for thread synchronisation concept.
+1579,When you install SQL Server 2005 and create a new database  is a Database Master Key created?
+460,2. Technical Objective : There will be 15 questions and time allocated is 15 mins. Very easy section. You can crack it if you have basic knowledge of c  cpp  java. You will finish this section in 5 mins.
+1,73. In objective test a correct ans score 4 marks and on a wrong ans 2 marks are
+82,2. PCM  AM  FSK  DPSK NUMERICALS & Objective q
+1501,15. In public key algorithm   A wants to send message to B .....
+846,Then he asked me to tell OOPS concepts  Inheritance program and application  JDBC connection steps and if possible program too. But I said I don't know.
+1209,d. Which one is not needed for Multi-pgm. enviornment? options are: virtual memory security time sharing none of the above.
+476,An Abstract class is a partial implementation of a class. In other words  at least some of the operations or methods are implemented  but the full implementation is left up to an inherited class.
+2216,How many users can be added to an application role in SQL Server 2005?
+973,Normally one would schedule a hierarchy of daily  weekly and monthly backups  however consult with your users before deciding on a backup schedule. Backup frequency normally depends on the following factors:
+1974,SQL queries were from join Subqueries Clusters etc This portion was tough for me
+563,Correct answer: Data Abstraction  Data Encapsulation  Inheritance  Polymorphism.  (4 Pillars).
+23,To create an object of any class its mandatory to know that how much memory required to load the class so in case of abstract class its can't be calculated for abstract members thats why we can't create object of Abstract class
+501,Constructors-destructors; dynamic binding; polymorphism; inheritance          virtual functionsetc.
+424,1. tech test objective questions 20 min 30 qu. covering core java  JSP  EJB  SQL
+179,4.When an object like cube or sphere is seen along x y z axes we get the  same.Apart from these suggest another which has similar characteristics?
+1819,B) Transactional Load Partitioning Improvement:
+620,7. He asked about inheritance  polymorphism  abstraction  encapsulation  etc
+336,A record group is an internal Oracle Forms that structure that has a column/row framework similar to a database table. However  unlike database tables  record groups are separate objects that belong to the form module which they are defined.
+2402,3. If you are from IT or CSE background then make sure that you know 2 programming languages  DBMS (very important)   sql queries are very important.
+1638,128. What are key-mode and locking mode properties? level ?
+2156,You can use tracer tokens in SQL Server 2005 replication to measure latencies. These are small amounts of data written into your transaction logs.
+753,Interviewer- Is servlet single threaded or multithreaded?
+2207,The correct answer is off ? The TRUSTWORTHY database property indicates whether the installed instance of SQL Server trusts the database such that it can reach out and perform actions outside the database. By default it is OFF such that the database to reduce certain threats that can result from attaching a database that contains potentially harmful code
+332,IMP-00015: Statement failed ... object already exists... - Use the IGNORE=Y import parameter to ignore these errors  but be careful as you might end up with duplicate rows.
+1672,In DBMS they asked normalization  foreign keys etc
+2415,For IS/CS DBMS basic knowledge  SQL queries is a must  few C program and C++ concept like inheritance  polymorphism etc  networking concepts is also important.
+1917,Q) Tell the commands of ddl dml dcl  &tcl command?s.
+2230,How can SQL Server Agent Mail send messages in SQL Server 2005?
+776,18-There is a tree with inorder threading Node B is inserted as left child of nade A. Node A already has right child . Where will the null ptr of B point ?
+2105,What does the SQL Writer service do?
+844,16. How many types of JDBC driver-
+741,TECH RND2: Threads  again they told to write programs in Encapsulation  Inheritance  Abstraction  about project.
+283,In ASP.NET the Response object is of type HttpResponse and when you say Response.Write you?re really saying (basically) HttpContext.Current.Response.Write and calling one of the many overloaded Write methods of HttpResponse.
+429,o New Status for Changed records (ODS Object only)
+1593,How to crack Part A: This is perhaps the most easiest part of the Test. An automated sound will instruct us to read a particular number  the key is we should immediately respond and should speak loudly and clearly. But dont read fast. By doing this we can bag max marks.
+1453,JAM: They partitioned 20-30 as per group and conducted JAM. Topic is your choice but should not be related to technical. Be effective in your language that's key to clear this round as most of the elimination will be done. About 6-10 cleared per each group.
+1642,A master detail relationship is an association between two base table blocks- a master block and a detail block. The relationship between the blocks reflects a primary key to foreign key relationship between the tables on which the blocks are based.
+970,. Console: This is a graphical interface from where one can schedule jobs  events  and monitor the database. The console can be opened from a Windows workstation  Unix XTerm (oemapp command) or Web browser session (oem_webstage).
+667,Constructors-destructors; dynamic binding; polymorphism; inheritance              etc.
+1288,Q 12. The following conditions are necessary for a deadlock
+2031,Int: Gave me his tab and told me to write an SQL query.
+1008,This is a bit tough round . The interviewer asked about my Academic background and my interest on subjects . He asked me the subjects i have covered in MCA course schedule and tried to cover all the subjects with simple questions and testing our capability in answering  the questions ...asked some live examples for the answers. the session lasted for about 45 minutes. be confident on the subjects you are interested.
+0,In objective test a correct ans score 4 marks and on a wrong ans 2 marks are ---. a student score 480 marks from 150 question. how many ans were correct?
+1924,The answer is Phantoms rows. A phantom row refers to the situation where you execute a DML statement that retrieves data  and another process may add new rows the result set. For example:
+2166,In SQL Server 2005  you are looking to implement full-text search. One of the tables you are looking to index stores Mircrosoft Word documents in a varbinary(max) column. Can you use Full-text search to index this column?
+1249,18. Why are OPS$ accounts a security risk in a client/server environment? (for DBA)
+1259,1) I reached the spot on time (White field near ITPL) the campus is amazing but the security guard was asking me lot of questions before sending me inside. Its only after brief verification I was allowed inside the campus.
+1961,In the test  There were 30 questions based on sql  unix  (c/c++/java) you can choose for the language you want  10 question on each. Time was of 30 mins.
+1087,141. What is dictionary cache ?
+2217,Which protocols support Kerberos authentication on SQL Server 2005?
+618,Class encapsulates data member and member function. These function and data members are inaccessible to outside environment.
+1034,9. Problem on cache (what I remember is power was asked and two solution were given for the problem in cache design which is better).
+435,The Open Hub Service enables us to distribute data from an SAP BW system  into external Data Marts  analytical applications  and other applications. We  can ensure controlled distribution using several systems. The central object for  exporting data is the InfoSpoke. We can define the source and the target object  for the data. BW becomes a hub of an enterprise
+1743,The answer is an acronym that describes concurrency support in a database. ACID is an acronym for the following four terms: * Atomicity - Every operation within a transaction is treated as a singular operation; either all of its data modifications are performed  or none of them is performed.
+1439,a.  A public key     b.  A private key    c.  B public key     d.  B private key
+1487,11) how many keys are needed in symmetric and asymmetric crptography?
+1547,1.how mant primary keys can exist for a table
+712,Then java it is quit easy. Polymorphism  method overloading method overriding diff  constructor  static like this you are asked to give an example of constructor with coding you can see javatpoint it is very helpful. Javatpoint is very useful.
+1556,The key here is Confidence  Soft Skills and most importantly is READ ALL THE THINGS ABOUT L&T TS.
+784,29. Design the implementation and thread models for I/O completion ports.
+1194,Maintaining genetic diversity is crucial for the long-term survival of any crop. When a crop variety somewhere becomes vulnerable either due to the onslaught of a disease or the soil becoming waterlogged or alkaline  scientists need to breed another variety of the crop for that region. They do this by searching for suitable genes in related varieties and the natural gene pool of rice and introduce harmful features like gene-silencing or change the normal functions of other genes  it would have terrible implications for food security of the rice-eating regions of the world.
+676,He asked about what is polymorphism  Inheritence etc.
+292,1. How do you find the size of a java object (not the primitive type) ?
+1872,Other groups had normal gd  some topics were JOINT FAMILY Vs nuclear family  role of govt. in IT sector  Arrange marriage Vs love marriage etc.
+2147,When testing connectivity in SQL Server  you use which utility in conjunction with the readpipe utility to establish a connection?
+909,On 27th July  2010 I received mail from aspiring minds that I cleared aptitude. I was one among 15% of the candidates all over India who wrote aspiring minds. But I checked mail only on 29th evening and GD schedule was on 31st July at 11:00 A.M. I had 1 day left so I prepared only for interview by refreshing topics from electronic devices  8085  8051  C and basics of C++.
+843,Me: JDBC  MULTITHREADING  OOPS CONCEPTS.
+902,I gave the online test for HAL (mechanical) which was scheduled on 14/11/2013 at abad.
+1822,A) The number on the overview screen corresponds to the total of LUWs (see  also first question) that were written to the qRFC queue and that have not yet  been confirmed. The detail screen displays the records contained in the LUWs.  Both  the records belonging to the previous delta request and the records that  do not meet the selection conditions of the preceding delta init requests are  filtered out. Thus  only the records that are ready for the next delta request  are displayed on the detail screen. In the detail screen of Transaction RSA7  a  possibly existing customer exit is not taken into account.
+1960,In Technical round they asked me about UNIX  In SQL join  Alter  Tables.
+78,67. In object orientated programming a class of objects can _____________ properties from another class of objects
+10,Each question had 5 options. There were 25 question in all and all  were Objective Type.
+2344,COMMIT makes permanent the changes resulting from all SQL statements in the transaction. The changes made by the SQL statements of a transaction become visible to other user sessions transactions that start only after transaction is committed.
+598,You can change the appearance of objects at runtime by changing the named visual attribute programmatically; property class assignment cannot be changed programmatically. When an object is inheriting from both a property class and a named visual attribute  the named visual attribute settings take precedence  and any visual attribute properties in the class are ignored.
+1650,They asked about The normalization  and cardinality  primary key  foreignkey.
+1268,Me: security  platform independent...
+1836,A) When Transaction data is loaded into InfoCube.
+2004,1)What is Oracle. What is SQL Server.
+453,They asked me to list out all the topics in C. Then they asked me some outputs for programs. Then they asked me to write some programs related to files.They asked me Object Oriented concepts .Then they asked me about my project. Then they gave me a situation and asked me to tell about it. It was ok. It was for 1 hour.
+2143,You are developing security policy for your SQL Servers and have all of the data entry clerks needing access to a series of tables. You create a Data Entry role and assign the proper permissions as well as add the users.
+2023,9.more questions on microprocessors  Data structures  Prepored  postorder  Networks (piggypagging)  SQL  Superkey..etc I could not remember...
+2380,Q. How will you create a table from an existing one (Ans: using select into SQL command)
+1594,How to crack Part C: This is another tricky area of the test. Listening skills are going to be the key for Part B and C. Automated voice asks questions we have to answer them in two or three words max (Two is suggestible). Sometimes answer will be in the question it self or it will be a direct question.
+522,3) Core Java concepts like Inheritance  Polymorphism.
+2122,In SQL Server 2005  what does instance aware mean for a service?
+1066,32. when write through is better than write back(related to cache memory)
+1993,2. Technical test consisted of 4 sections each of pseudocode c unix n sql all tests r computer based
+2249,You have installed a US English SQL Server 2000 instance with the default options  collation  and sorting. What does this return:
+2248,Which of the following modules within SQL Server 2005 cannot be signed with a digital signature?
+1264,There was upper limit for cut off. Students who secured between given limits were selected for technical and HR interview. Expected cut off was 15-20 for technical written.
+1797,Recovery is the process of applying redo logs to the database to roll it forward. One can roll-forward until a specific point-in-time (before the disaster occurred)  or roll-forward until the last transaction recorded in the log files. Sql> connect SYS as SYSDBA
+359,117. Can object group have a block?
+2193,While all of these are valid encryption algorithms on SQL Server 2005  the AES algorithms (128-bit  192-bit  and 256-bit) are not supported on Windows XP or Windows 2000. To use these  you would need to upgrde to Windows 2003.
+113,Ans-To convert Implicit object into explicit and vice versa I explained it in well mannered way.
+371,Export all of the objects from the tablespace
+2211,You have noticed in both your SQL Server 2000 and 2005 instances that when a database grows in SQL Server  there is a delay in the database response. Why is that?
+1220,The root cause of class conflict its possessiveness or the acquisitive instinct. So long as the ideal that is to be achieved is one of securing the maximum material satisfaction  possessiveness is neither suppressed nor eliminated but grows on what it feeds. Nor does it cease to be such - it is possessiveness  still  whether it is confined to only a few or is shared by many.
+1072,In unmanaged environments the compiler and linker directly compile the source code in to native instructions that are targeted at a specific processor. The disadvantage of this process is that each time you want to run your executable on a different platform you will have to re-compile the code using a compiler and linker that will compile the code that is targeted at the specific hardware. This means that each time you want your application to run on a different platform  you will have to ship the compiled instructions again and again. As this leads to compiling and maintaining multiple versions of the same application  the companies try to create a more generalized compiled version in order to target most of the environments. This process is known as the Lowest Common Denominator approach. This leads to a more generalized program which is not optimized properly and does not take advantages of the underlying hardware infrastructure (processor  cache  etc). Because the CLR supplies one or more Just in Time Compiler for each computer architecture it supports  the same set of MSIL can be JIT-compiled and run on any supported architecture.
+1738,b. Read is done when the transaction is not yet committed
+149,Me: Sir actually I have a good concept of object oriented programming. Java had been taught in our college during our B.tech course. But Sir I was also interested about the .Net technology by Microsoft. Just had a curiosity about knowing that. But I have more programming experience in java than C#. I am not so clear about the syntax of C#. But I have the concepts.
+1296,8)  deadlocks  and i told abt 4 conditons of deadlocks also
+331,ORA-00001: Unique constraint (...) violated - You are importing duplicate rows. Use IGNORE=NO to skip tables that already exist (imp will give an error if the object is re-created).
+1080,Imagine this scenario: I/O completion ports are communictaions ports which take handles to files  sockets  or any other I/O. When a Read or Write is submitted to them  they cache the data (if necessary)  and attempt to take the request to completion. Upon error or completion  they call a user-supplied function to let the users application know that that particular request has completed. They work asynchronously  and can process an unlimited number of simultaneous requests. Design the implementation and thread models for I/O completion ports. Remember to take into account multi-processor machines.
+291,What do you know about ADO.NET?s objects and methods?
+1948,This section is also moderate and some questions are high level. There is 10 questions from unix  10 questions from sql  last 10 questions from C  Java  C++ based on your selection when you're starting exam. Better to choose C. Unix and sql is mandatory.
+1228,To effectively handle security  you want to minimize the administrative burden. Bob is a member of the Data Entry role  and because of cross training  you do not want to remove him from this role  but you do need to DENY permission to the Vacation table. The best way to do this is with another role specifically to DENY this permission.
+1399,58)a relation schema R is in BCNF if it is in ___________and satisfies an  additional constraints that for every functional dependency XY X must be a  candidate key
+540,15. what is accessibility of a protected member of a base class which is inherited privately?
+2409,I attended Virtusa written test in Hyderabad. Written test consists of two sections. First section they asked on SQL  Java  UML  Software Engineering. SQL questions based on Joins. Try to understand question much quicker.
+1713,Also very imp. That only put things in your resume that you know about not for the key of it looks or sounds cool to know this much  they do ask mostly everything on your resume.
+2367,Can one use dynamic SQL within PL/SQL? OR Can you use a DDL in a procedure ? How ?
+2418,The panel was too helpful and friendly. They tried to make the candidate comfortable. I questions on SQL  Java  SDLC and basic OOPS concepts.
+1465,Time is key in this sections. You have to manage your time to answer this module.
+1463,a) the key word Friend b) the key word friend and scope resolution  c) only scope resolution  d) nothing
+1456,tables a  b & c each contain 100 rows & the primary key for tables a & b is pk. What is the maxm. No. of rows that could be returned by query
+1724,1. In what way are data warehouses different from databases? (This has  taken most of my time  since we got into a discussion of each and  every aspect. Some important aspects touched upon are: OLTP  transactions and OLAP transactions  querying  response-time of a  database  load on the database  query processing etc.).
+118,5) Question on data objects  and constraints
+1542,13) relation between primary key foreign key
+2331,Table functions are designed to return a set of rows through PL/SQL logic but are intended to be used as a normal table or view in a SQL statement. They are also used to pipeline information in an ETL process.
+1972,Basic sql queries. For union  joins  difference between truncate and delete.
+2351,The data dictionary cache is stored in an area in SGA called the shared pool. This will allow sharing of parsed SQL statements among concurrent users.
+1181,1 - How do you provide security to your project.
+2316,f) Embedded Sql :: Incorporate DDL DML and T.C.S in Programming Language.e.g:: Using the Sql Statements in languages such as 'C'  Open Fetch  execute and close
+1073,The object?s state (values)How does output caching work in ASP.NET?
+302,Motorola india -job profile was writing codes/programs for its mobile job location banglore. test paper consisted of 30 objective questions. most of them were electronics 3 c programs-find out mistakes from them.In one of them an int type variable was assigned value using function: int i= func() however the function was not declared earlier.
+2024,If you have good domain knowledge and concepts like Java OOPS  DBMS and SQL Queries  Data structures  you can easily crack this interview. Never forget to prepare your final year project. prepare DBMS specially(join  normalization  transaction  acid properties).
+871,118 Which of the following is an acceptable schedule starting from Monday to  Friday?
+1397,59) a relation schema R is in BCNF if it is in ________ and satisfies an additional constraints that for every functional dependency XY X must be a candidate key
+894,5) from o.s. process scheduling and disk scheduling.
+1630,b) 2 Normal Form :: A table is said to be in 2nd Normal Form when all the candidate keys are dependant on the primary key
+1340,14> difference between DBMS n RDBMS (told abt E.M.CODD'S 12 rules n key concept)
+68,Class is an object of an object.
+159,tell about urself  ur hobbies  ur strengths  weakness  why should I hire u  ur career objective
+983,The technical interview was scheduled on 4 September 2017 at Sikkim Manipal institute of technology ( SMIT)   we all visited and after a lot of tension we appeared ...A pre placement talk was arranged on 04 September at 9 am were a short ppt and video related to BOSCH were shared give your full attention to the pre placement talk as many a times questions are asked from three ...Then came the interview round 4 panels were set and we were called one by one ...my advice if they tell at random whoever can come for interview please don't hesitate and go through it.
+337,A property clause is a named object that contains a list of properties and their settings. Once you create a property clause you can base other object on it. An object based on a property can inherit the setting of any property in the clause that makes sense for that object.
+230,73. In objective test a correct ans score 4 marks and on a wrong ans 2 marks are ---. a student score 480 marks from 150 question. how many ans were correct?
+1965,Around 47 students cleared this round. If you clear online test than 70% of your work is done but don't relax. For technical interview  be prepared with one of your core subjects. If you are from ece be prepared with digital electronics/microprocessors and basic programs. Also you may be asked to write program in c/c++/java language(the one language you have chosen during online test). Learn few basic SQL queries related to groupby while etc.
+1515,The aptitude test has 50 questions with 60 minutes time. Time management and selection of question is the master key to crack written test and the important thing is that we have to fill circles in OMR sheet. So  be careful with your answers.
+448,Answered that I need to be more objective in a competitive environment.
+1343,14.difference between DBMS n RDBMS (told abt E.M.CODD'S 12 rules n key concept)
+1283,21.what is deadlock n different mechanism to avoid it
+2184,What message types exist in SQL Server 2005 Service Broker?
+1774,PARTLY AVAILABLE - Contains data from an unresolved transaction involving a distributed database.
+1064,14-2level cacheis there first level cache s access time is 100ns second level cache s access time is 33ns & memory access time is 1000 ns What is total memory access time ?
+206,First part was C  C++. questions on fundamentals  programs and their output  objective type
+2236,SQL Server is a DBMS system provided by Microsoft. SQL Server is sometimes mistakenly referred to as SQL.
+1936,8). Joins Topic in SQL like Which is the better join command to club all the rows and columns?
+1722,7. There are 3 persons X  Y and Z. On some day  X lent tractors to Y and Z as many as they had. After a month Y gave as many tractors to X and Z as many as they have. After a month Z did the same thing. At the end of this transaction each one of them had 24. Find the tractors each originally had?
+1827,Q) I would like to display the date the data was uploaded  on the report. Usually  we load the transactional data nightly. Is there any  easy way to include this information on the report for users? So that they know  the validity of the report.
+1504,In this round they are conducting like personal interview for 1 to 2 mins thats it. But the key point to be noted here is they are just checking your spontaneity and fluency (you need not be that much fluent  just manage speaking for at-least 20 to 30 sec).
+2000,14.  We are UPDATING a field in SQL and ALTER the row also.After giving  the COMMIT command the system is crashed.Wat will happen to the commands given whether it will UPDATE and ALTER the table r not?
+1700,Ans:the primary key in Database design is very important.
+382,11. Can a Tablespace hold objects from different Schemes ?
+1379,19. Dense index (index record appers for every search -key in file)
+641,Correct answer: Data Abstraction  Data Encapsulation  Inheritance  Polymorphism.  (4 Pillars).
+1146,f) System Global Area(SGA) :: The SGA is a shared memory region allocated by the Oracle that contains Data and control information for one Oracle Instance.It consists of Database Buffer Cache and Redo log Buffer.
+2294,A Database Trigger is procedure (set of SQL and PL/SQL statements) that is automatically executed as a result of an insert in update to  or delete from a table.
+1620,#NAME?
+88,Create Object - To create an instance of an object.
+839,12) Write JDBC connection Code (Only give overview)
+1514,34. Super Key is Ans. Primary key and Attribute
+1079,15. How do you improve the cache performance.
+1952,4. Technical it consist 30 question (10 sql  10 unix  10 c/c++/java which ever you have chosen).
+1572,A certificate is like an asymmetric key and can validate the identity of the issuer.
+1331,The questions were very simple like about the company  net revenue  location of headquarters  CEO  our mini project  any key role played in mini project  any innovative ideas you came up with  basic questions on C and JAVA like what are the three OOP principles  what is encapsulation  what is inheritance. Etc.
+2171,Information about current SQL Server users and processes is displayed.
+1024,23. Hit ratio of cache  Some data was given  don't remember but
+489,4. Which of the following statements is true when a derivation inherits both a virtual and non-virtual instance of a base class ?
+1408,TR: Difference between Primary key & foreign key?
+1758,This level of error severity indicates a transaction deadlock error.
+534,7. A widow & a son are to receive Rs 20000 and Rs 10 000 respectively frm inheritance of Rs. 70 000. The rest is 2 be divide so that the widow receives 3/2 times as much of it as the son. Then the amnt received by (widow  son) pair in thousands of rs. Is:
+524,C++ section (20 ques)deals with some fundamental questions about inheritance  friend functions
+2101,4) What is the basic form of a SQL statement to read data out of a table?
+957,I am hereby sharing the experience of MindTree campus drive in our college. It was a closed campus and hence confined only to our college students. The campus drive was scheduled on 3rd and 4th sept 2012 in CDSE  Indore. We were intimated that the exams will be online.
+1021,4. Assume a system has 16MB cache mean Disk Access Time & cache Access time is 76.5 ns & 1.5 overall mean Access time us 465ms for each tripling the memory the miss rate is halved. The memory required to bring down the mean Access time to 24ns is
+1779,g) Recoveror(RECO) :: The Recoveror is used to resolve the distributed transaction in network
+1619,Self join-Its a join foreign key of a table references the same table. Outer Join--Its a join condition used where One can query all the rows of one of the tables in the join condition even though they don't satisfy the join condition.
+495,2) Compile time error indicating that you cannot inherit from a class with final methods
+1877,When I went in the P.I room I found 5 interviewer in front of me. First conversation was the general talks just like tell me about yourself  what you want to do in life  why you want to joint the l&t. Etc. General conversation.
+2068,a. the sql stament is a correct one
+640,Interviewer: What is encapsulation and polymorphism?
+356,Referencing allows you to create objects that inherit their functionality and appearance from other objects. Referencing an object is similar to copying an object  except that the resulting reference object maintains a link to its source object. A reference object automatically inherits any changes that have been made to the source object when you open or regenerate the module that contains the reference object. Any string expression up to 32K:
+96,All questions were objective type.
+709,He asked me diff btwn array n linked list  polymorphism  encapsulation  water jug problem  a puzzle  basic C prog.
+2244,What does the Queue Reader Agent do in SQL Server 2005 replication?
+1212,38. Security functionality is provided by which layer of OSI
+1253,"Users normally use the ""connect"" statement to connect from one database user to another. However  DBAs can switch from one user to another without a password. Of course it is not advisable to bridge Oracle's security  but look at this example: SQL> select password from dba_users where username='SCOTT';"
+1631,91. What is difference between UNIQUE and PRIMARY KEY constraints?
+577,An interface is not a class. It is an entity that is defined by the word Interface. An interface has no implementation; it only has the signature or in other words  just the definition of the methods without the body. As one of the similarities to Abstract class  it is a contract that is used to define hierarchies for all subclasses or it defines specific set of methods and their arguments. The main difference between them is that a class can implement more than one interface but can only inherit from one abstract class. Since C# doesn?t support multiple inheritance  interfaces are used to implement multiple inheritance.What is serialization  how it works in .NET?
+320,A canvas-view is the background object on which you layout the interface items (text-items  check boxes  radio groups  and so on.) and boilerplate objects that operators see and interact with as they run your form. At run-time  operators can see only those items that have been assigned to a specific canvas. Each canvas  in term  must be displayed in a specific window.
+377,Object Linking & Embedding provides you with the capability to integrate objects from many Ms-Windows applications into a single compound document creating integrated applications enables you to use the features form .
+1665,13-    What is difference b/w PRIMARY KEY & UNIQUE KEY
+2188,Which of the following columns can be indexed with SQL Server 2005 Full-Text Search?
+443,A bit on order of creation of Constructors for objects. Always objects are created from base class to derived class.
+589,7.What is the essential feature of inheritance
+1382,16.   For every table  IS foreign key mandatory ?
+1168,44. ip-sec is an internet security mechanism for ?
+1232,The most restrictive permission set should always be used for .NET assemblies in keeping with a secure SQL Server environment. Only the EXTERNAL_ACCESS and UNSAFE permission sets will allow registry access and UNSAFE permissions are not required.
+1370,10) What happens when any keyboard key is pressed?(abt WM_CHAR message)
+2302,Lexical reference is place_holder for text that can be embedded in a sql statements. A lexical reference can be created using & before the column or parameter name.
+817,27-Java applet of a moving /waving file is running on one machine then         it means
+2007,I'm basically from Karnataka State Gulbarga district. I completed my BE in ECE in hometown. As my interest diverted from core to IT  so I decided to enhance my skills related to programming skills. I did course on C  C++  Java  SQL  Web technologies and so on.
+956,I am 2 years experienced on Java and Springs and for me interview was scheduled on 21st Feb 2015.
+2392,* SQL query for Insertion  Deletion and Updation.
+41,d) Each derived class object has a base object from the virtual instance and a base object from non-virtual instance.
+1218,Favourite subjects (I said DSA  C and DBMS. I didn't say OS because for OS they were asking w.r.t. Linux. In CN they may also ask general about Network Security  firewall  encryption etc. CA include Digital  Microprocessor etc)
+1905,DDL triggers cannot be signed  but all the other objects can.
+1214,Security functionality is provided by which layer of OSI
+1279,Then they asked deadlock-i answered
+1934,Now lady HR started and scanned each application and resume which we had submitted already. She started with one of guy from 5 members. Guys they were observing how you behave for situation. They asked questions like difference between C and C++ and Java etc. Be perfect with your resume. Don't include topics which you don't no. They will trap you easily. They asked some SQL concepts. Mainly they concentrated on projects we have done during engineering  be perfect with it. Be confident and present properly. If you guys get nervous don't show it. Big MNC golden opportunity don't do mistake guys.
+173,Y:DFD cannot be used in object oriented design
+166,Technical questions: As this was my 3rd attempt for a core company I realized that all companys are asking mechanical questions from the book Mechanical Engineering (conventional and Objective Type)
+454,In this stage  I have got 10 marks out of 12 in technical objective test and scored 5 out of 5 in essay writing which helped me a lot to go through the further selection process.
+710,2.What is Runtime Polymorphism ?
+2013,dot net   sql and php. The written test has its three sets A  B and C. I
+124,8) Connection object  command objection. How can u
+1657,Unique key can be null; Primary key cannot be null.
+419,23. if the selling price of an object is rs.2300 and the profit percent          is 15 what is the cost price?
+940,OS-CPU Scheduling algorithms  Threads with Life Cycle  Paging concepts.
+857,5. What are the different CPU scheduling algorithms in OS ?
+1321,Deadlock  graph(2)  error detection in which layer of OSI find no: of
+1557,This was my key to crack this round. If you try and solve quantitative first you invest a lot of time in that and plus it is a bit harder to solve and you do not get the answer easily  then you start worrying  lose more time  more panics  your brain gets stuck and then you cannot even attempt the rest 2 sections with a stable mind and make them wrong too. They give the quantitative section first  but you can navigate to the other section easily and start solving that first.
+46,d) Each derived class object has a base object from the virtual instance and a base object
+1968,Next was technical test and there were questions related to Sql  Unix  Java (language chosen by u).
+561,He asked to draw the architecture of 8085  in C++ to define Inheritance  OOP and Polymorphism etc.
+1563,I thanked him and left  in confusion and uncertainty. I told all my friends that I am gone. So  the results were to be announced... MY NAME WAS ANNOUNCED. FINALLY I WAS SELECTED  I REALISED LATER THAT IT WAS MY CONFIDENCE THAT GOT ME THROUGH .. FINALLY I'M A SATYAMITE!!!. HAPPINESS ALL OVER.. SO THE KEY IS CONFIDENCE  accordin to me. Be confident and win the race..
+112,The written test consist of 40 objective type questions from which 10 are on
+2139,You have created a new assembly and want to test it on SQL Server 2005. You install the developer edition with defaults on your workstation and create the assembly as a sysadmin. You then write a function to use this assembly  but it does not work. What could be the problem?
+1792,The On-line Redo Log is a set of tow or more on-line redo files that record all committed changes made to the database. Whenever a transaction is committed  the corresponding redo entries temporarily stores in redo log buffers of the SGA are written to an on-line redo log file by the background process LGWR. The on-line redo log files are used in cyclical fashion.
+1039,2.Technical(Computer Science) OS cache access time -100ns
+1773,Rollback segment dynamically extent to handle larger transactions entry loads. A single transaction may wipeout all available free space in the Rollback Segment Tablespace. This prevents other user using Rollback segments.
+2168,In SQL Server 2005  which of the following schema changes are supported for the publication objects of a replicated database?
+209,A> Object X refers to the contents of Y.
+396,An user account is not a physical structure in Database but it is having important relationship to the objects in the database and will be having certain privileges.
+1151,X$KCBCBH     Cache Buffer Current Buffer Header Fixed Table. It can predict the potential loss of decreasing the number of database buffers. The db_block_lru_statistics parameter has to be set to true to gather information in this table.
+379,There are tablespaces and database's schema objects
+2114,You have a SQL Server 2005 cluster and need to add anti-virus software as per your corporate standards. What should you exclude from scans?
+2313,'By generating SQL to ANALYZE TABLE table_name COUNT STATISTICS by querying Oracle System Catalogues (e.g. USER_TABLES or ALL_TABLES).
+1447,==> 5.one qustion was on private key and public key.The quest. was
+917,30. Which scheduling technique is used in Windows XP? ( I Explained the scheduling technique used in UNIX and VAX/ VMX systems.)
+1241,The pass mark for versant test is 53 marks but I secured 52 marks. So  they have given another chance for me for Versant test. People who secures above 50 they will give one more chance.
+1683,One of the important thing which they observe is your confidence  communication skills  your way of answering the questions. Guys never loose HOPE as it is one of key role that can make you look more confident.
+877,16. Are CPU Scheduling and Process Scheduling different?
+814,Me : Swings  Applets sir. I am also interested in working with JDBC and explained about my project that I have done with swings and JDBC.
+1549,In this there were to rounds in which a common GD on a topic and 2nd was speaking on anything interesting and worth sharing for 40-45 secs. The key here is to only talk in english and talk to the point and the topic chosen by you should be rich not common like cricket. 8 Cleared the GD round.
+964,6.Which of the following is an acceptable schedule starting from Monday to Friday
+139,b. the objective of the firm determine the management information needs and these needs
+551,He: Can you explain how would you use Java OOPS properties with help of program (he wants me to write a program in which I have to use all the basic oops properties like abstraction  inheritance  polymorphism etc).
+1027,85. cache access time 100 msec. main memory access time 800 msec if the hit ratio is 95%   what is mean access time ...
+1353,Dense index (index record appers for every search -key in file)
+1199,Question 2) The approximate number of students securing less than 41 marks in both the subjects is
+906,The topics are just like: Our schedule for 2 days  Schedule for tomorrow  favorite movie etc.
+2145,There are two types of subscriptions in SQL Server replication. What are they?
+1882,This is Tripurari Chaudhary frm Yamuna Nagar  Haryana. I m very happy 2 be placed at Patni Computer Systems. I had been 2 Baddi (HP) 4 a joint campus on 18th oct 2007.  On first day there was only written exam. total candidates appeared =8000  70 colleges  the procedure 4 PCS is
+1314,This level of error severity indicates a transaction deadlock error.
+1863,3.nuclear family or joint family........
+394,Privilege auditing is the auditing of the use of powerful system privileges without regard to specifically named objects
+423,At this stage  your probability of being rejected becomes very unlikely. Again  they can ask anything from your strengths and weaknesses  to your hobbies  to your career objective  to your family background. They can also give puzzles to solve. It depends on your approach to tackle the problems.
+1947,Next they asked about SQL and Unix. In SQL how to delete duplicates in a table like:
+2071,The above SQL statement is correct or not?
+1582,One additional key difference between interfaces and abstract classes (possibly the most important one) is that multiple interfaces can be implemented by a class  but only one abstract class can be inherited by any single class.
+2340,#NAME?
+42,Referring to the sample code above  if an object of class ?yprofessor were created  how many
+1446,d) A uses private key part of B
+1929,c) Transaction Control Statements :: Manage change by DML
+1541,Then asked abt primary key  foreign key  unique
+420,1. Square contains all angles   one object does not
+1440,c.    for every exchange  key should be changed
+649,3) asked wht is encapsulation ..explain it till he didnt look satisfactory try to tell him using examples..
+1923,6. dcl  dml  ddl language and example.
+2130,You want to disable the trigger dEmployee on the HumanResources.Employee table in the SQL Server 2005 AdventureWorks sample database. Which of the following statements will do the trick?
+2326,Issue the following SQL command:
+804,First-round which was Aptitude round has happened at our college. There were mainly two parts of the paper. The first part consists of questions and the second one was the coding round. In first parts  Questions are mainly from the Software engineering  Java  Database  quantitative aptitude  and English. The question was easy but need the basic understanding of these subjects. In the second round  there was two coding question. We can only choose java as a coding language. The question was easy  If you have knowledge about Collection  Thread in java then you can very easily do these questions.
+1523,The key would be to be cool and confident in the interview.
+1348,6. difference between unique key and primary key
+677,- C++ questions like POLYMORPHISM  RUNTIME POLYMORPHISM  INHERITANCE etc.
+1513,Ans: . Primary key and Attribute
+1981,My technical interview is of about 60 minutes. it seems to be long but when u r inside u never feel it and u just hv to ans patiently as ques are very easy n bit tricky. A good knowledge of SQL and C is a must. U must know at least the basics command of unix otherwise u will be rejected.they will just ask u to write 10 commands of unix and they will ask ques on those 10 commands only.
+1131,23. Which layer in the osi model is concerned with printer buffering  etc: network/session/transport/..
+1155,Use the buffer cache advisory over a given workload and then query the v$db_cache_advice table. If a change was necessary then I would use the alter system set db_cache_size command.
+2382,2. RDBMS:  questions based on codd's rules  normalization  sql queries
+1915,Can one use dynamic SQL within PL/SQL? OR Can you use a DDL in a procedure ? How ?
+1085,Number of times processes repeatedly query the dictionary table is called recursive hints. It is due to the data dictionary cache is too small. By increasing the SHARED_POOL_SIZE parameter we can optimize the size of Data Dictionary Cache.
+2210,You have created a database snapshot on SQL Server 2005 for the sales database to capture the end-of-month activity. The next day your server fails and you need to recover to a standby server using the previous night's backups. How do you recover the snapshot?
+201,ans Common Object Request Broker Architeture
+1426,72. In gear boxes Which type of key is used
+1609,Note - Confidence is the key to crack this interview and Technical questions from indiabix.com are helpful.
+535,13. how does inheritance relate 2 abstraction?
+1307,17. Which of the following is not condition having a deadlock resource previous granted  can be forcebly taken away from a process
+778,39. A thread is Ans. Detachable unit of executable code)
+240,Interviewer: Tell me the difference between procedural & object oriented language.
+835,Q. WAP JDBC code for fetching student database using MySQL.
+390,#NAME?
+1858,33. Two more questions  one each from riveted joints and cotterjoint
+1866,5)In a Left outer joint operation what will be returned
+172,Also had technical questions. Questions based on algorithms. So be prepared with commonly Asked n used sorting and searching algorithms. Then questions to write output of code snippet Given. All are objective questions.
+916,29. What is scheduling? What are the scheduling techniques? Explain.
+352,An object group is a container for a group of objects. You define an object group when you want to package related objects so you can copy or reference them in another module.
+1763,a) CPU sheduling         b) Memory management            c) Transaction
+1534,Try to jot down some key points about Infosys. They provide the best training program.
+2003,On 21st I was called for interview  I just had 2 days 2 prepare for the interview  n in Aricent they can ask each n every thing that you must have studied.. I toiled v hard day n night revised almost everything Data Structures  OS  DCN  C  C++  s/w engineering  SDLC  Normalization  keys  SQL  Unix etc.
+2048,3rd round was on next day. It was the technical round. They will ask you about the project. Questions based on training (if mentioned in the resume). Basic sql questions were asked. And some C based questions.
+2118,Unlimited  no different from the other SQL Server 2000 editions.
+2066,a. the sql stament is a correct one  (ans)
+1125,Let us think you have marked the answer for a question while the timer is at 00:10 seconds(10 seconds remaining) then please don't get panicked/tensed. Once you marked the answer before 2.15 minutes the answer will be automatically saved. If you click on NEXT option on the screen before 2.15 minutes then it will display you the next question and if you don't wish to do so then you have a buffer time of 30 seconds after which the next question will be displayed so you can feel relaxed for a moment(DO NOT FOLLOW THIS FOR EVERY QUESTION).  This helped me personally.
+645,6.How is Encapsulation implemented and an example?
+1712,The key to crack this round is also you already know.. ;) but still  will mention it. Confidence. Eye contact while communicating in group
+1261,****N.B*** Never try to attempt the Sec-3 first(the Staff present there wud persuade u to do it first in order to secure gud marks)  try the other two sections first then return bck to Sec-3 if time permits.
+1029,25. cache access time 100 msec. main memory access time 800 msec if the hit ratio is 95%   what is mean access time ...
+1701,Me:: (I said a small ex  like this... i showed the door beside me and said like this..) Theif will unlock the door without exact key. and if that thief is given a chance to prepare the lock and key  he will do it perfectly in such a way that  no other theif can unlock it. Just like that if a tester comes to development and writes a code  the code will be in such a way that no other tester can find any bugs in it. So that way i can be a good developer  even though i ma with 1.5 yrs expereienced in testing and away from development.
+1611,POST-FIELD ON-VALIDATE-FIELD POST-CHANGE and KEY-NEXTFLD. KEY-NEXTFLD POST-CHANGE  ON-VALIDATE-FIELD  POST-FIELD. g.
+2001,many friends was asked sql  jave cpp.
+1099,X$KGLTR     Library Cache Translation Table entry Fixed Table
+1600,Q. Which Statement would you use to remove the EMPLOYEE_ID_PK PRIMARY KEY  constraint and all depending constraints fromthe EMPLOYEE table?
+69,93 If a derived class object is explicitly destroyed by applying the delete operator to a base-class pointer to the object  the _____ function is automatically called on the object
+89,Get Object ? To get the reference to an existing object.
+2012,Q 37. There are two tables in a database namely EMPLOYEE and DEPARTMENT. EMPLOYEE table has 6 columns  60000 rows and DEPARTMENT table has 4 columns   40000 rows. What is the output of the following SQL query.
+1639,Key Mode : Specifies how oracle forms uniquely identifies rows in the database.This is property includes for application that will run against NON-ORACLE datasources .
+1671,Q. Primary key  Foreign key (SQL queries).
+1617,A flexfield is an Oracle Applications field made up of segments. Each segment has an assigned name and a set of valid values. Oracle Applications uses flexfields to capture information about your organization. There are two types of flexfields: key flexfields and descriptive flexfields.
+2322,KK     Compilation Layer - Parse SQL  compile PL/SQL
+595,yes   partially. 1) PROPERTY CLASS - inheritance property 2) OVERLOADING : procedures and functions.
+1517,So the key is to do all the concepts well for aptitude test and answer confidently during interviews.
+1686,Since there is no negative marking try to answer all the questions.Time management plays key role. The written test was conducted on 31 May 2014 at our own college. The results were declared on 14 June 2014.
+1409,TR: He had given a structure of a table  indicated the candidate keys & their types. Now tell me as a DBA which key will you take as an index and why? Table (ABCDE). Ck-A  B  CD.
+363,Visual attributes are the font  color  and pattern properties that you set for form and menu objects that appear in your application's interface.
+1100,X$KGLXS     Library Cache Access Table
+1076,The output cache also supports variations of cached GET or POST name/value pairs.
+2421,A few SQL queries were also asked (find second highest salary from a table) and SQL concepts like view  trigger  etc.
+819,3.when an java applet get's downloaded what happens
+1291,Operating systems:  resource allocation  write bankers algorithm  safety algorithm  deadlocks  how to resolve them  conditions for dead lock etc.
+2348,SQL * DBA - This allows DBA to monitor and control an ORACLE database. SQL * Loader - It loads data from standard operating system files (Flat files) into ORACLE database tables. Export (EXP) and Import (imp) utilities allow you to move existing data in ORACLE format to and from ORACLE database.
+626,Interviewer: What is encapsulation and abstraction explain with example.
+1591,How to crack Part A: This is perhaps the most easiest part of the Test. An automated sound will instruct us to read a particular number  the key is we should immediately respond and should speak loudly and clearly. But don't read fast. By doing this we can bag max marks.
+1900,The answer is Create a DDL trigger on CREATE_PROCEDURE database event You can find the answer on page 448 of Beginning SQL Server 2005 for Developers: From Novice to Professional
+267,To create a Service Master Key in SMO  you would get a handle to the ServiceMasterKey object under the Server object and then call the Regenerate method.
+343,A flag to indicate whether grants on databse objects will be exported or not. Value is 'Y' or 'N'.
+430,o Additive Delta (ODS Object & InfoCube)
+1800,COMMIT makes permanent the changes resulting from all SQL statements in the transaction. The changes made by the SQL statements of a transaction become visible to other user sessions transactions that start only after transaction is committed.
+1393,"Next round was Group discussion  282 students were divided into 19 batches  each batch consists of 15 members and my batch was of 8 girls and 7 boys. Ours GD panel number is 6. We were given the topic ""INTERNET USAGE AMONG CHILDREN"" it is quite easy topic so I thought that I can definitely clear this round. After 2 minutes of brainstorming about the topic monitor asked us to start the discussion  one of my friend took initiative and started the discussion I was really waiting for chance as soon as she completed almost 3 to 4 members of my friends started arguing  being as a girl I don't have a loud voice  I was really disappointed that why am I not delivering even though I have valid points 3 minutes passed away discussion turned out very clumsy and I didn't even speak for once I was actually broken that  everyone was shouting as it is very easy topic panel member was really annoyed with our discussion after few seconds I realized one thing and shouted as much as I can ""GUYS  THIS IS A GROUP DISCUSSION NOT A DEBATE"" everyone was so calm monitor was bit happy and again they started shouting as we are running out of time I concluded the discussion. After 6 minutes of discussion everyone are supposed to give self introduction and speak 1 min of their own topic individually. On the spot he announced the result 9 members got selected for technical HR and I was one among them. Key point to remember to clear GD is Be confident  speak authoritatively and politely  must and make an eye contact with your friends. These are enough to clear GD."
+1518,Primary key  foreign and unique key differences.
+947,I've attended L&T Infotech Interview through an off campus at Rajalakshmi Engineering College & SA Engineering College  Chennai. L&T Infotech conducted off campus on three days(Aug 6-Aug 8) in two different college as mentioned above. I was Scheduled on Aug 8 at Rajalakshmi College.
+1373,14. There is an employer table with key fields as  employer number data  in every n'th row are needed for a simple following queries will get required results.
+2009,Then on DAY 2 we had technical rounds.This was also an elimination round. They concentrated on SQL C in general but for NON-IT(ie Mechanical  IPE  Civil---) the technical was also a HR round.
+191,9.why is object oriented programming useful?
+2275,In the first round they have asked from C  Java  C++  Data Structure and DBMS. The questions are conceptual and if you have the concept clear then it will be easy for you. The questions are like representation of tree or linked list using C  SQL query like joining  complexity analysis of a C program  any C++ program  method overloading from java  use of super keyword in java  why we use B-tree  string length calculation using pointer  etc.
+971,. Intelligent Agent (OIA): The OIA runs on the target database and takes care of the execution of jobs and events scheduled through the Console.
+511,7.What is the essential feature of inheritance
+660,I explained polymorphism  inheritance.
+97,4) The one that converts a high level language code to object form is
+2121,In SQL Server 2005  can you include a user-defined role as a member of another user-defined role?
+688,41.What is meant by polymorphism
+1431,The key used in the gears for   transmitting power(flat/saddle/spline/square)
+1273,? See the figure numbers correctly They ask question by just giving the figure no. And also the calculations may also be asked. The results were declared and I cleared the round Technical interview The techinal interviewer asked me to write few programs on c And he almost asked all the topics like Operation systems Information security- authentication authourisation DBMS Data structures Java Prepare well for all the topics HR Its very simple.
+2107,You are delegating permissions on your SQL Server 2005 server to other administrators. You have local  single server jobs on one server that you would like to allow another administer to start  stop  and view the history for  but not delete history. This administrator will own the jobs. Which role should you assign?
+1059,Why direct mapping is not good for the mapping of Cache Memory.
+500,#NAME?
+1552,The key here is Confidence  Soft Skills and most importantly is READ ALL THE THINGS ABOUT L&T TS.
+811,many threads do u want for this?
+889,Interviews are scheduled for the next day(O no Sunday). My number for the Interview was 60(first in first out).
+397,We must be able to create a after row trigger on table (i.e.  it should be not be already available) After giving table privileges. We cannot specify snapshot log name because oracle uses the name of the master table in the name of the database objects that support its snapshot log. The master table name should be less than or equal to 23 characters. (The table name created will be MLOGS_tablename  and trigger name will be TLOGS name).
+1197,"I've said as follows in Deloitte interview - ""When I was in 12th standard  my father again joined our family and did all those things in order to distract me from getting high score in 12th and he has openly said about that too. Inspite of that  I was able to secure 1171 out of 1200 and emerged out as school topper"""
+2287,Function key triggers are associated with individual SQL*FORMS function keys You can attach Key function triggers to 10 keys or key sequences that normally do not perform any SQL * FORMS operations. These keys referred as key F0 through key F9.
+446,C is an objective oriented language - yes or no?
+358,A record group is an internal Oracle Forms data structure that has a column/row framework similar to a database table. However  unlike database tables  record groups are separate objects that belong to the form module in which they are defined. A record group can have an unlimited number of columns of type CHAR  LONG  NUMBER  or DATE provided that the total number of columns does not exceed 64K. Record group column names cannot exceed 30 characters.
+2333,For long transactions that contain many SQL statements  intermediate markers or savepoints can be declared which can be used to divide a transaction into smaller parts. This allows the option of later rolling back all work performed from the current point in the transaction to a declared savepoint within the transaction.
+2125,What does REVERT do in SQL Server 2005?
+1658,22. can a database table exist without a primary key ?
+1679,Each Fact Table can contain a maximum of 233 key figures.
+2214,Can a particular event in SQL Server 2005  such as the CREATE USER command  have more than one DDL trigger assigned to it?
+1627,b) Foreign Key Integrity Rule :: The FKIR denotes that the relationship between the foreign key and the primary key has to be enforced.When there is data in Child Tables the Master tables cannot be deleted.
+1338,In DBMS  difference between DBMS and RDBMS  joins  keys  normalization and on some important topics.
+1433,a.  A public key     b.  A private key     c.  B public key     d.  B private key
+2411,So  one must be through with all the java concepts because it also helps a lot during interview because VIRTUSA interviews are done mainly on JAVA. Coming to DBMS  the questions are related to SQL queries. Some bits are from Data Structures like stacks and queues.  There is a less focus on software testing  but basics should be clear and we have to know about types of testing and by whom the testing's are done in real world. The time given for these 40 questions is 40 minutes.
+309,a rating method  appraising mangers against verifiable objectives a ranking method  appraising managers as managers
+2074,10. Which is more important in a sql query IN or EXISTS-
+1757,This agent is tasked with reading the transaction log in transactional replication and moving those transactions that need to be replicated to the distributor.
+946,Drive was scheduled for 2 days actually but they finished the things in 1 day only.
+1539,Later the HR round was quite simple. I was asked to tell me about myself  my background  hobbies  interests  strengths  Why Keane? And so on. Once again  I was pretty confident in answering which I assume was the key factor which worked out well.
+1553,In this  there were to rounds in which a common GD on a topic and 2nd was speaking on anything interesting and worth sharing for 40-45 secs. The key here is to only talk in English and talk to the point and the topic chosen by you should be rich  not common like cricket. 8 Cleared the GD round.
+1810,Multiple database support : Oracle has a superior ability to manage multiple databases within the same transaction using a two-phase commit protocol.
+999,The result was declared on 10th of august and the interview was scheduled on 31 october.
+480,7. He asked about inheritance  polymorphism  abstration encapsulation  etc...
+413,"PL/SQL V2.2  available with Oracle7.2  implements a binary wrapper for PL/SQL programs to protect the source code. This is done via a standalone utility that transforms the PL/SQL source code into portable binary object code (somewhat larger than the original). This way you can distribute software without having to worry about exposing your proprietary algorithms and methods. SQL*Plus and SQL*DBA will still understand and know how to execute such scripts. Just be careful  there is no ""decode"" command available."
+268,Objects from unsigned CLR assemblies with EXTERNAL_ACCESS or UNSAFE permissions
+58,anyhow  we were made to sit in room and the hr gave a brief introduction about the software testing...then he gave n object to be tested...
+2342,ROLLBACK retracts any of the changes resulting from the SQL statements in the transaction.
+1589,We can score maximum of our marks in last two modules where we need to say a story. Irrespective of topic given by machine just highlight the key words and use the sentences given in your versant test paper.
+125,1. Java basics what is object  class  abstraction  polymorphism  inheritance?
+395,Object auditing is the auditing of accesses to specific schema objects without regard to user.
+1996,In SQL learn for - Commands that are somewhat internal like COMMIT      etc..but its easy only
+648,- What is encapsulation in C++?
+1771,Type export should be performed COMPLETE CUMULATIVE INCREMENTAL. List the sequence of events when a large transaction that exceeds beyond its optimal value when an entry wraps and causes the rollback segment to expand into anotion Completes. e. will be written.
+1689,Answer 10: (Moment he said this mind was like ok dude I'm Leaving. I stared at them with blank eyes.) They said do you need a moment? I said yes sir  that will be great. Actually this is my first interviewed and i'm very nervous  I didn't sit for any interview during my graduation. They asked why so? I started to answer but couldn't phrase words correctly and I apologised. They said there was nothing to apologise for and that it was quite natural. Somehow managed to say that back then i wasn't ready for an interview as i didn't have enough knowledge and that things would have been more worse than this(pointing to the blank paper). Then I looked at the formula again and couldn't even figure out how I would store the actual values and the measured ones. I confessed this by saying  Sir My mind if totally blank and I can't even think of how I'm supposed to store all the values. He then helped me by reminding me of arrays. I then somehow coded it in c which was incorrect and he pointed that out.  Then asked me to code the same incorrect one in Python but with proper syntax  which I managed somehow. Then asked if dictionaries are more useful for this scenario as we could keep the values as key and their error as values. I said I would prefer arrays as we need to traverse the entire thing both for errors and the values.
+127,68. A______ class is a class that represents a data structure that stores a number of data objects
+2106,The SQL Writer service was introduced to handle access to the data files in SQL Server. It allows backup programs  like VSS  to function while SQL Server is still running.
+2383,It is the method of dividing a table which would enable a quick reference.  SAP uses fact file partitioning to improve performance. We can partition only at  0CALMONTH or 0FISCPER. Table partitioning helps to run the report faster as data  is stored in the relevant partitions. Also table maintenance becomes easier.  Oracle  Informix  IBM DB2/390 supports table partitioning while SAP DB   Microsoft SQL Server  IBM DB2/400 do not support table portioning.
+1376,14. There is an employer table with key fields as employer number data in every  n'th row are needed for a simple following queries will get required results.
